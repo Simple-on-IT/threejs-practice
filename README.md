@@ -23,4 +23,4 @@
 
 ## Дополнительные материалы:
 Документация: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene    
-Видео - 
+Видео - https://youtube.com/shorts/gMWYf2UTiPo?feature=share
